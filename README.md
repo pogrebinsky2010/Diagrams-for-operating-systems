@@ -1,2 +1,2 @@
 # Diagrams-for-operating-systems
-Diagram representation of a driver in a multiplexer system
+Diagram representation of a network driver in a multiplexer program.
